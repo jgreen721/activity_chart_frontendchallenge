@@ -59,6 +59,7 @@ body{
     /* border:1px solid white; */
     background:var(--dark_blue);
     border-radius:5%;
+    max-width:200px;
 }
 
 .user-info-card{
@@ -149,7 +150,9 @@ li{
     display:grid;
     grid-template-columns:repeat(3,1fr);
     grid-gap:15px;
-    transform:translateX(15px)
+    transform:translateX(15px);
+    max-width:500px;
+
 }
 
 .activity-card-parent{
@@ -221,6 +224,8 @@ li{
 
     .user-column{
         width:100%;
+        max-width:320px;
+
 
         
     }
