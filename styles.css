@@ -212,7 +212,7 @@ li{
 
 
 
-@media screen and (max-width:550px){
+@media screen and (max-width:465px){
 
  
 
@@ -224,11 +224,9 @@ li{
 
     .user-column{
         width:100%;
-        max-width:320px;
-
-
-        
-    }
+        max-width:360px;
+        /* min-width:320px; */
+   }
 
     .avatar{
         height:4rem
