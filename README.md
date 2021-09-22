@@ -6,4 +6,4 @@
 
 #### - JS button functionality
 
-#### - Using browser fetch to grab json data
+#### - Using the browsers fetch API to grab json data
